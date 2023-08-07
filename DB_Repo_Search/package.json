@@ -1,0 +1,7 @@
+{
+ "name": "git_search",
+ "Description": "test",
+ "scripts":{
+	"test" : "mvn test"
+  }
+}
